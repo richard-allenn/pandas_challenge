@@ -1,0 +1,22 @@
+this report covers a sample of students test scores from 15 different schools and a total of 39 thousand students.
+
+the aim of this report is to find correlations between student test scores and school type, size and budget.
+
+by building data frames grouping by school and cost per student the following conclusions were drawn.
+
+percentage of students passing overall in independant schools is 6 % higher than in public schools
+
+per student budget has no strong linear correlation to student success.
+
+when looking at the 5 top performing and 5 lowest performing schools by % overall passing. there tends to be a correlation between number of students and schools performance. 
+the top 5 schools average 2820 students compared to:
+the lowest 5 schools 3467 students average.
+
+from schools below 1000 students to schools with 1000 - 2000 students there is only a 1 % drop in overall scores and passing. 
+however for schools above 2000 students % overall passing drops 8% but the average maths and reading scores drop 1-2%. 
+this displays the possibility that in a very large school struggling students recieves less support and fall father behind the cohort than they would have in a smaller school. 
+
+
+
+
+
